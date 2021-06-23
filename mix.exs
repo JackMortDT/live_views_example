@@ -48,7 +48,8 @@ defmodule MyApp.MixProject do
       {:jason, "~> 1.0"},
       {:plug_cowboy, "~> 2.0"},
       {:number, "~> 1.0"},
-      {:inflex, "~> 2.1"}
+      {:inflex, "~> 2.1"},
+      {:timex, "~> 3.7"}
     ]
   end
 
